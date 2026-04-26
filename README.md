@@ -71,6 +71,19 @@ datasets/
 └── ...
 ```
 
+## Gesture Examples
+
+The following image shows examples of the five hand gestures included in this dataset.
+
+<p align="center">
+  <img src="assets/gesture_examples.png" alt="Gesture Examples" width="700">
+</p>
+
+<p align="center">
+  Examples of the five hand gestures: fist, open palm, left wrist deviation, right wrist deviation, and thumbs up.
+</p>
+
+
 ## File Naming
 
 Gesture files:
