@@ -150,7 +150,7 @@ If you use this dataset in your research, project, or publication, please cite i
 ```bibtex
 @misc{forearm_semg_gesture_dataset_2026,
   title        = {Forearm sEMG Gesture Dataset for Hand Gesture Recognition},
-  author       = {Hu, Yongcheng and Gu, Jinren and Hu, Shuai and Guo, Chen'en},
+  author       = {Hu, Yongcheng and Hu, Shuai},
   year         = {2026},
   version      = {1.0.0},
   publisher    = {GitHub},
