@@ -10,6 +10,7 @@ The dataset contains EMG signals collected from 30 subjects performing five hand
 
 - Signal type: Surface electromyography (sEMG)
 - Recording position: Forearm muscles
+- Acquisition device: MYO Armband
 - Number of subjects: 30
 - Number of sessions per subject: 5
 - Number of channels: 8
