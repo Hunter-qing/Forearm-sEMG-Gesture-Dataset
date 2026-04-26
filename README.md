@@ -70,14 +70,6 @@ datasets/
 └── ...
 ```
 
-## Gesture Onset Alignment
-
-This repository also provides a simple onset-alignment script:
-
-```text
-scripts/align_onset.py
-```
-
 ## File Naming
 
 Gesture files:
@@ -108,7 +100,25 @@ rest_01.mat
 
 means the first rest-state trial.
 
+## Gesture Onset Alignment
 
+This repository also provides a simple onset-alignment script:
+
+```text
+scripts/align_onset.py
+```
+
+## MATLAB Preprocessing Scripts
+
+This repository provides MATLAB scripts for converting the original `.mat` files into sliding-window H5 files.
+
+The scripts are located in:
+
+```text
+scripts/matlab/
+├── extract_windows_from_mat.m
+└── batch_convert_to_h5.m
+```
 
 ## Suggested Usage
 
@@ -128,6 +138,8 @@ Users must not attempt to re-identify any subject.
 ## License
 
 This dataset is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+The MATLAB preprocessing scripts are released under the MIT License.
 
 Please cite this repository if you use the dataset.
 
