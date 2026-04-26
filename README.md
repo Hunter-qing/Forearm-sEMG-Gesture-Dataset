@@ -102,7 +102,7 @@ means the first rest-state trial.
 
 ## Gesture Onset Alignment
 
-This repository also provides a simple onset-alignment script:
+This repository also provides a simple onset-alignment script: Considering that each subject had a different reaction time, all .mat files were data-aligned: 20 sample points (you can modify) were uniformly retained before the significant change in the EMG signal, and any excess points were truncated.
 
 ```text
 scripts/align_onset.py
