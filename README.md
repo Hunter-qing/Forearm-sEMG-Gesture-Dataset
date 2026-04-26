@@ -110,7 +110,7 @@ scripts/align_onset.py
 
 ## MATLAB Preprocessing Scripts
 
-This repository provides MATLAB scripts for converting the original `.mat` files into sliding-window H5 files.
+This repository provides MATLAB scripts for converting the original `.mat` files into H5 files with sliding-window method.
 
 The scripts are located in:
 
